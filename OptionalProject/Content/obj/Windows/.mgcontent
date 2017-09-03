@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/audio/applause.wav</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/audio/explosion.wav</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/audio/loser.wav</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/blinkingeight.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/blinkingfive.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/blinkingfour.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/blinkingnine.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/blinkingone.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/blinkingseven.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/blinkingsix.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/blinkingthree.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/blinkingtwo.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/board.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/eight.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/five.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/four.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/nine.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/one.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/openingscreen.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/seven.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/six.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/three.png</File>
+    <File>C:/Users/Thib/Documents/Visual Studio 2015/Projects/OptionalProject/OptionalProject/Content/graphics/two.png</File>
+  </SourceFiles>
+</SourceFileCollection>
